@@ -10,4 +10,4 @@ To Run in Simulator:
 Design Approach:
 - ColorObject is a model class for custom object description.
 
-![ScreenShot](https://github.com/aneesham/acronymExpander/blob/master/Images/elasticSearch.png)
+![ScreenShot](https://github.com/aneesham/SimpleTableApp/blob/master/Screenshots/screenshot1.png)
