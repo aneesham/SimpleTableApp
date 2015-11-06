@@ -4,7 +4,7 @@ Goal:
 
 
 To Run in Simulator:
-- Open the *SampleTableExercise.xcodeproj** in xcode 7.
+- Open the **SampleTableExercise.xcodeproj** in xcode 7.
 
 
 Design Approach:
